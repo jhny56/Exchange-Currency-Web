@@ -1,0 +1,37 @@
+.Exchange-Parent-Container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Exchange-Form-Container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Exchange-Form-Row-Container{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin: 4px;
+}
+.Exchange-Form-Input-Container{
+    display: flex;
+    flex-direction: column;
+}
+.Exchange-Form-Button-Container{
+    display: flex;
+    margin: 15px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.Exchange-Form-Button{
+    width: 20%;
+    height: 30px;
+}
